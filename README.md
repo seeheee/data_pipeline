@@ -53,7 +53,14 @@ Restful 프로토콜을 사용하여 정형, 비정형, 데이터 위치정보, 
 - 장애복구(마스터 서버가 슬레이브 서버의 장애를 실시간으로 감지하여 서비스 우회 OR 다른 노드에 복제된 데이터 사용)
 - 대용량데이터(한번 저장된 데이터는 only read = 데이터 업데이트 X)
 
-## 하둡파일시스템 관리 페이지 접속
+## 하둡파일시스템 페이지 접속(구동확인)
+- 네임노드 정보
 ![image](https://github.com/seeheee/data_pipeline/assets/53335160/6e62f13c-7703-449d-ba88-ae82c55e8d47)
+
+- 데이터노드 정보
 ![image](https://github.com/seeheee/data_pipeline/assets/53335160/b8931cee-34af-453c-93e7-cdd4f34a2206)
+
+- yarn 정보
+![image](https://github.com/seeheee/data_pipeline/assets/53335160/ca0a651c-1a25-40d7-8ca1-60ad761cc262)
+
 

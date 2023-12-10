@@ -63,4 +63,6 @@ Restful 프로토콜을 사용하여 정형, 비정형, 데이터 위치정보, 
 - yarn 정보
 ![image](https://github.com/seeheee/data_pipeline/assets/53335160/ca0a651c-1a25-40d7-8ca1-60ad761cc262)
 
+## 카프카
+KSQL: 스트리밍이 되는 데이터를 카프카가 제공하는 유사 SQL을 사용하여 로직을 구현하여 분석하는 프로젝트
 
